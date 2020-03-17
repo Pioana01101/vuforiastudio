@@ -1,4 +1,4 @@
-# ![](https://placehold.it/32/5BB73B/ffffff?text=+) Vuforia Studio Samples
+# ![](https://placehold.it/24/5BB73B/ffffff?text=+) Vuforia Studio Samples
 
 A repository of example projects for Vuforia Studio and [detailed documentation](https://github.com/patrickscheper/vuforiastudio/wiki) on how to extend AR experiences with Javascript.
 
