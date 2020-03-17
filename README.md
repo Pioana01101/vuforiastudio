@@ -8,6 +8,5 @@ Drag the project folder into `Documents/VuforiaStudio/Projects` and it should sh
 
 ---
 
-### ![](https://placehold.it/16/5BB73B/ffffff?text=+) Manual Step-By-Step Instruction Experience
-
+## ![](https://placehold.it/16/5BB73B/ffffff?text=+) Manual Step-By-Step Instruction Experience
 test
