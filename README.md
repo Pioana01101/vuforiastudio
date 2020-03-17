@@ -39,7 +39,6 @@ This is an initative to create a centralized place on how to use Javascript in V
 ---
 
 **Disclaimer**
-
 The examples and documentation might not be officially supported by technical support of PTC.
 
 
