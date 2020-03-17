@@ -22,5 +22,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros lectus, feugi
 
 # ![](https://placehold.it/24/236192/ffffff?text=+) Documentation
 
-Supporting documentation of the Javascript functionality of Vuforia Studio is provided on the [wiki](https://github.com/patrickscheper/vuforiastudio/wiki) of this repository. It discusses how to learn to use Javascript, how to use the Studio syntax and gives an overview of the widget properties accessible.
+Supporting documentation regarding the Javascript functionality of Vuforia Studio is provided on the [wiki](https://github.com/patrickscheper/vuforiastudio/wiki) of this repository. It discusses how to learn to use Javascript, how to use the Studio syntax and gives an overview of the widget properties accessible.
 
