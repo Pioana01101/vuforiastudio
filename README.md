@@ -1,4 +1,4 @@
-# ![](https://placehold.it/24/5BB73B/ffffff?text=+) Vuforia Studio Samples
+## ![](https://placehold.it/24/5BB73B/ffffff?text=+) Vuforia Studio Samples
 
 A repository of example projects for Vuforia Studio and [detailed documentation](https://github.com/patrickscheper/vuforiastudio/wiki) on how to extend AR experiences created with Vuforia Studio with Javascript.
 
@@ -7,7 +7,7 @@ A repository of example projects for Vuforia Studio and [detailed documentation]
 Drag the project folder into `Documents/VuforiaStudio/Projects` and it should show up in the project window of Vuforia Studio.
 
 ---
-# ![](https://placehold.it/24/F1B434/ffffff?text=+) Examples
+## ![](https://placehold.it/24/F1B434/ffffff?text=+) Examples
 
 Here are the descriptions of each provided example.
 
@@ -20,11 +20,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper.
 ### Dynamic Highlighted Areas
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros lectus, feugiat sed. 
 
-# ![](https://placehold.it/24/236192/ffffff?text=+) Documentation
+## ![](https://placehold.it/24/236192/ffffff?text=+) Documentation
 
 Supporting documentation regarding the Javascript functionality of Vuforia Studio is provided on the [wiki](https://github.com/patrickscheper/vuforiastudio/wiki) of this repository. It discusses how to learn to use Javascript, how to use the Studio syntax and gives an overview of the widget properties accessible.
 
-# ![](https://placehold.it/24/F38800/ffffff?text=+) About
+## ![](https://placehold.it/24/F38800/ffffff?text=+) About
 
 This is an initative to create a centralized place on how to use Javascript in Vuforia Studio and to educate users how to use the Javascript functionality better to their advantage.
 
