@@ -2,7 +2,7 @@
 
 A repository of example projects for Vuforia Studio and [detailed documentation](https://github.com/patrickscheper/vuforiastudio/wiki) on how to extend AR experiences created with Vuforia Studio with Javascript.
 
-## How to import a project
+### How to import a project
 
 Drag the project folder into `Documents/VuforiaStudio/Projects` and it should show up in the project window of Vuforia Studio.
 
@@ -11,13 +11,13 @@ Drag the project folder into `Documents/VuforiaStudio/Projects` and it should sh
 
 Here are the descriptions of each provided example.
 
-##  Manual Step-By-Step Instruction Experience
+###  Manual Step-By-Step Instruction Experience
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
 
-## Dynamic Step-By-Step Instruction Experience
+### Dynamic Step-By-Step Instruction Experience
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper. 
 
-## Dynamic Highlighted Areas
+### Dynamic Highlighted Areas
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros lectus, feugiat sed. 
 
 # ![](https://placehold.it/24/236192/ffffff?text=+) Documentation
