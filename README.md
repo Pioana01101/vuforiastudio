@@ -17,6 +17,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vehicula est la
 ### Dynamic Step-By-Step Instruction Experience
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper. 
 
+### Ionic Framework Icons
+Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
+https://ionicons.com/v2/
+
 ### Dynamic Highlighted Areas
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros lectus, feugiat sed. 
 
