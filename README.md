@@ -14,12 +14,12 @@ Here are the descriptions of each provided example.
 ###  Manual Step-By-Step Instruction Experience
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
 
-### Dynamic Step-By-Step Instruction Experience
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper. 
-
-### Ionic Framework Icons
+### Manual Step-By-Step Instruction Experience (With Ionic Framework Icons)
 Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
 https://ionicons.com/v2/
+
+### Dynamic Step-By-Step Instruction Experience
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper. 
 
 ### Dynamic Highlighted Areas
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros lectus, feugiat sed. 
