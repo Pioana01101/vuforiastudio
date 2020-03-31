@@ -40,6 +40,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros lectus, feugi
 - How to I visualize areas based on locations I have stored, to check them in AR?
 - How to highlight an area based on a JSON with data points.
 
+---
+
 Other ideas: Manual step-by-step experience with Ionicons (Shows off more advanced CSS), Wayfinding example (guide users through an experience), highlighted areas + wayfinding (Guide users to dynamic locations).
 
 ---
