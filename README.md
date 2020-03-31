@@ -14,15 +14,33 @@ Here are the descriptions of each provided example.
 ###  Manual Step-By-Step Instruction Experience
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
 
-### Manual Step-By-Step Instruction Experience (With Ionic Framework Icons)
+- What is the best way to quickly create a step-by-step instruction experience?
+- Show off a combination of Javascript, binding and CSS features.
+
+### Manual Step-By-Step Instruction Experience (With Ionicons icon font)
 Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
 https://ionicons.com/v2/
+
+- Same as the manual step-by-step instruction experience but with Ionicons.
+- Shows off Javascript, binding and (advanced) CSS.
 
 ### Dynamic Step-By-Step Instruction Experience
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper. 
 
+- A more dynamic and scalable instruction experience. Might be based on an array, or notes from Creo Illustrate.
+
+### Wayfinding Example
+Sed rutrum ante dictum blandit. Sed id lectus. Integer vehicula est lacus.
+
+- How to a guide users through my AR experience to pre-defined areas?
+
 ### Dynamic Highlighted Areas
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros lectus, feugiat sed. 
+
+- How to I visualize areas based on locations I have stored, to check them in AR?
+- How to highlight an area based on a JSON with data points.
+
+Other ideas: Manual step-by-step experience with Ionicons (Shows off more advanced CSS), Wayfinding example (guide users through an experience), highlighted areas + wayfinding (Guide users to dynamic locations).
 
 ---
 
