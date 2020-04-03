@@ -8,7 +8,7 @@ Drag the project folder into `Documents/VuforiaStudio/Projects` and it should sh
 
 You're able to ad
 
-All zip files in the repository are able to be imported into Vuforia Studio. You're able to import projects via the top right corner menu and clicking on 'Import Project'.
+All zip files in the repository are able to be imported into Vuforia Studio. You're able to import projects via the top right corner menu and clicking on 'Import Project'. From there you can browse the project zip file and import it into Studio.
 
 ![](https://i.gyazo.com/dd7bc15c94f593a3c0a0636481983dcc.gif)
 
@@ -18,10 +18,9 @@ All zip files in the repository are able to be imported into Vuforia Studio. You
 Here are the descriptions of each provided example.
 
 ###  Manual Step-By-Step Instruction Experience
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
+The manual step-by-step instruction experience provides an experience with an assembly of an X-Wing Squadron. It shows a combinations of Javascript, binding and CSS features.
 
-- What is the best way to quickly create a step-by-step instruction experience?
-- Show off a combination of Javascript, binding and CSS features.
+The button interactability and step labels are set through the application parameters in the [application parameters pane](http://support.ptc.com/help/vuforia/studio/en/index.html#page/Studio_Help_Center/AppAndDevicePropPanel.html). The steps are written in an array that define the titles and descriptions. 
 
 ### Manual Step-By-Step Instruction Experience (With Ionicons icon font)
 Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
