@@ -15,7 +15,7 @@ Here are the descriptions of each provided example.
 ###  Manual Step-By-Step Instruction Experience
 The manual step-by-step instruction experience provides an experience with an assembly of an X-Wing Squadron. It shows a combinations of Javascript, binding and CSS features.
 
-The button interactability and step labels are set through the application parameters in the [application parameters pane](http://support.ptc.com/help/vuforia/studio/en/index.html#page/Studio_Help_Center/AppAndDevicePropPanel.html). The steps are written in an array that define the titles and descriptions. 
+The button interactability and step labels are set through the application parameters in the [data pane](http://support.ptc.com/help/vuforia/studio/en/index.html#page/Studio_Help_Center/AppAndDevicePropPanel.html). The steps are written in an array that define the titles and descriptions. 
 
 ### Manual Step-By-Step Instruction Experience (With Ionicons icon font)
 Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
