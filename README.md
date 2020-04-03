@@ -3,11 +3,6 @@
 A repository of example projects for Vuforia Studio and [detailed documentation](https://github.com/patrickscheper/vuforiastudio/wiki) on how to extend AR experiences created with Vuforia Studio with Javascript.
 
 ### How to import a project
-
-Drag the project folder into `Documents/VuforiaStudio/Projects` and it should show up in the project window of Vuforia Studio.
-
-You're able to ad
-
 All zip files in the repository are able to be imported into Vuforia Studio. You're able to import projects via the top right corner menu and clicking on 'Import Project'. From there you can browse the project zip file and import it into Studio.
 
 ![](https://i.gyazo.com/dd7bc15c94f593a3c0a0636481983dcc.gif)
