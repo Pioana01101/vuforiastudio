@@ -1,4 +1,4 @@
-# Vuforia Studio Samples
+# Vuforia Studio Examples
 
 This is a repository helpful to people who start to use Vuforia Studio. This repository houses a plethora of example projects for you to use and [detailed documentation](https://github.com/patrickscheper/vuforiastudio/wiki) on how to extend your AR experiences made with Javascript in Studio.
 
