@@ -3,11 +3,9 @@
 This is a repository helpful to people who start to use Vuforia Studio. This repository houses a plethora of example projects for you to use and [detailed documentation](https://github.com/patrickscheper/vuforiastudio/wiki) on how to extend your AR experiences made with Javascript in Studio.
 
 ### How to import a project
-All .zip files in the repository are importable into Vuforia Studio. You're able to import any project .zip file after downloading into Vuforia Studio by navigating to the top right menu and clicking on 'Import Project'.
+All .zip files in the repository are importable into Vuforia Studio. You're able to import any project .zip file after downloading into Vuforia Studio by navigating to the top right menu and clicking on *'Import Project'*.
 
 Note that when you directly download the repository, unzip that first. You cannot import the entire repository into Vuforia Studio.
-
-![](https://i.gyazo.com/dd7bc15c94f593a3c0a0636481983dcc.gif)
 
 ---
 ## ![](https://placehold.it/16/5BB73B/ffffff?text=+) Examples
