@@ -9,7 +9,7 @@ Note that when you directly download the repository, unzip that first. You canno
 
 ---
 ## ![](https://placehold.it/16/5BB73B/ffffff?text=+) Examples
-Here you find a list of all provided examples in this repository:
+Here you find a list of all provided examples, with direct links, in this repository:
 - [**Manual Step-By-Step Instruction Experience**](https://github.com/ptc-ar-sharing/vuforiastudio/tree/master/Manual%20Step-By-Step%20Instruction%20Experience)
 
 > A step-by-step instruction experience that shows a combination of Javascript, binding and CSS features. 
