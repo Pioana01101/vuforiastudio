@@ -3,46 +3,36 @@
 This is a repository helpful to people who start to use Vuforia Studio. This repository houses a plethora of example projects for you to use and [detailed documentation](https://github.com/patrickscheper/vuforiastudio/wiki) on how to extend your AR experiences made with Javascript in Studio.
 
 ### How to import a project
-All zip files in the repository are able to be imported into Vuforia Studio. You're able to import projects via the top right corner menu and clicking on 'Import Project'. From there you can browse the project zip file and import it into Studio.
+All .zip files in the repository are importable into Vuforia Studio. You're able to import any project .zip file after downloading into Vuforia Studio by navigating to the top right menu and clicking on 'Import Project'.
+
+Note that when you directly download the repository, unzip that first. You cannot import the entire repository into Vuforia Studio.
 
 ![](https://i.gyazo.com/dd7bc15c94f593a3c0a0636481983dcc.gif)
 
 ---
 ## ![](https://placehold.it/16/5BB73B/ffffff?text=+) Examples
+Here you find a list of all provided examples in this repository:
+- [**Manual Step-By-Step Instruction Experience**](https://github.com/ptc-ar-sharing/vuforiastudio/tree/master/Manual%20Step-By-Step%20Instruction%20Experience)
 
-Here are the descriptions of each provided example.
+> A step-by-step instruction experience that shows a combination of Javascript, binding and CSS features. 
 
-###  Manual Step-By-Step Instruction Experience
-The manual step-by-step instruction experience provides an experience with an assembly of an X-Wing Squadron. It shows a combinations of Javascript, binding and CSS features.
+- [**Manual Step-By-Step Instruction Experience (With Ionicons icon font)** - Upcoming]()
 
-The button interactability and step labels are set through the application parameters in the [data pane](http://support.ptc.com/help/vuforia/studio/en/index.html#page/Studio_Help_Center/AppAndDevicePropPanel.html). The steps are written in an array that define the titles and descriptions. 
+> Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
 
-### Manual Step-By-Step Instruction Experience (With Ionicons icon font)
-Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
-https://ionicons.com/v2/
+> Same as the manual step-by-step instruction experience but with Ionicons, shows off Javascript, binding and (advanced) CSS.
 
-- Same as the manual step-by-step instruction experience but with Ionicons.
-- Shows off Javascript, binding and (advanced) CSS.
+- [**Dynamic Step-By-Step Instruction Experience** - Upcoming]()
 
-### Dynamic Step-By-Step Instruction Experience
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper. 
+> A more dynamic and scalable instruction experience. Might be based on an array, or notes from Creo Illustrate.
 
-- A more dynamic and scalable instruction experience. Might be based on an array, or notes from Creo Illustrate.
+- [**Wayfinding Example** - Upcoming]()
 
-### Wayfinding Example
-Sed rutrum ante dictum blandit. Sed id lectus. Integer vehicula est lacus.
+> How to a guide users through my AR experience to pre-defined areas?
 
-- How to a guide users through my AR experience to pre-defined areas?
+-[**Dynamic Highlighted Areas** - Upcoming]()
 
-### Dynamic Highlighted Areas
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eros lectus, feugiat sed. 
-
-- How to I visualize areas based on locations I have stored, to check them in AR?
-- How to highlight an area based on a JSON with data points.
-
----
-
-Other ideas: Manual step-by-step experience with Ionicons (Shows off more advanced CSS), Wayfinding example (guide users through an experience), highlighted areas + wayfinding (Guide users to dynamic locations).
+>  How to I visualize areas based on locations I have stored, to check them in AR? How to highlight an area based on a JSON with data points.
 
 ---
 
