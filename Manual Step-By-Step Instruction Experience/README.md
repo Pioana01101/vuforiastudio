@@ -13,3 +13,6 @@ You're able to import the .zip file after downloading into Vuforia Studio by nav
 
 ![](https://i.gyazo.com/dd7bc15c94f593a3c0a0636481983dcc.gif)
 
+---
+
+Disclaimer: This example might not be officially supported by technical support of PTC.
