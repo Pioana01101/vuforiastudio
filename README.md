@@ -18,8 +18,6 @@ Here you find a list of all provided examples in this repository:
 
 - [**Manual Step-By-Step Instruction Experience (With Ionicons icon font)** - Upcoming]()
 
-> Integer vehicula est lacus, sed rutrum ante dictum blandit. Sed id lectus. 
-
 > Same as the manual step-by-step instruction experience but with Ionicons, shows off Javascript, binding and (advanced) CSS.
 
 - [**Dynamic Step-By-Step Instruction Experience** - Upcoming]()
@@ -30,7 +28,7 @@ Here you find a list of all provided examples in this repository:
 
 > How to a guide users through my AR experience to pre-defined areas?
 
--[**Dynamic Highlighted Areas** - Upcoming]()
+- [**Dynamic Highlighted Areas** - Upcoming]()
 
 >  How to I visualize areas based on locations I have stored, to check them in AR? How to highlight an area based on a JSON with data points.
 
