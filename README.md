@@ -7,7 +7,6 @@ All .zip files in the repository are importable into Vuforia Studio. You're able
 
 Note that when you directly download the repository, unzip that first. You cannot import the entire repository into Vuforia Studio.
 
----
 ## ![](https://placehold.it/16/5BB73B/ffffff?text=+) Examples
 Here you find a list of all provided examples, with direct links, in this repository:
 - [**Manual Step-By-Step Instruction Experience**](https://github.com/ptc-ar-sharing/vuforiastudio/tree/master/Manual%20Step-By-Step%20Instruction%20Experience)
@@ -30,13 +29,9 @@ Here you find a list of all provided examples, with direct links, in this reposi
 
 >  How to I visualize areas based on locations I have stored, to check them in AR? How to highlight an area based on a JSON with data points.
 
----
-
 ## ![](https://placehold.it/16/F1B434/ffffff?text=+) Documentation
 
 Supporting documentation regarding the Javascript functionality of Vuforia Studio is provided on the [wiki](https://github.com/patrickscheper/vuforiastudio/wiki) of this repository. It discusses how to learn to use Javascript, how to use the Studio syntax and gives an overview of the widget properties accessible.
-
----
 
 ## ![](https://placehold.it/16/236192/ffffff?text=+) About
 
