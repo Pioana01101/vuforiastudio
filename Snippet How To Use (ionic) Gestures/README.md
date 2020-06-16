@@ -1,5 +1,5 @@
 ## ![](https://placehold.it/16/5BB73B/ffffff?text=+) Snippet How To Use (ionic) Gestures Experience
-The snippet hoe to use gestures experience provides an experience with the js code needed to use [ionic gestures](https://ionicframework.com/docs/v1/api/service/$ionicGesture/). It shows the import of the module, register the events and how to apply them to widget scope.
+The snippet how to use gestures experience provides an experience with the js code needed to use [ionic gestures](https://ionicframework.com/docs/v1/api/service/$ionicGesture/). It shows the import of the module, register the events and how to apply them to widget scope.
 
 ## ![](https://placehold.it/16/5BB73B/ffffff?text=+) Download
 You can directly [download](https://github.com/ptc-ar-sharing/vuforiastudio/raw/master/Snippet%20How%20To%20Use%20(ionic)%20Gestures/Gestures.zip) the experience by navigating to the .zip file and clicking on the download button.
