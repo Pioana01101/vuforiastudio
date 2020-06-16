@@ -2,7 +2,7 @@
 The snippet hoe to use gestures experience provides an experience with the js code needed to use [ionic gestures](https://ionicframework.com/docs/v1/api/service/$ionicGesture/). It shows the import of the module, register the events and how to apply them to widget scope.
 
 ## ![](https://placehold.it/16/5BB73B/ffffff?text=+) Download
-You can directly download the experience by navigating to the .zip file and clicking on the download button.
+You can directly [download](https://github.com/ptc-ar-sharing/vuforiastudio/raw/master/Snippet%20How%20To%20Use%20(ionic)%20Gestures/Gestures.zip) the experience by navigating to the .zip file and clicking on the download button.
 
 You're able to import the .zip file after downloading into Vuforia Studio by navigating to the top right menu and clicking on *'Import Project'*.
 
