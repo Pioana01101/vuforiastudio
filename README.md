@@ -25,10 +25,6 @@ Here you find a list of all provided examples, with direct links, in this reposi
 
 > How to a guide users through my AR experience to pre-defined areas?
 
-- **Dynamic Highlighted Areas** - Upcoming
-
->  How to I visualize areas based on locations I have stored, to check them in AR? How to highlight an area based on a JSON with data points.
-
 ## ![](https://placehold.it/16/F1B434/ffffff?text=+) Documentation
 
 Supporting documentation regarding the Javascript functionality of Vuforia Studio is provided on the [wiki](https://github.com/patrickscheper/vuforiastudio/wiki) of this repository. It discusses how to learn to use Javascript, how to use the Studio syntax and gives an overview of the widget properties accessible.
