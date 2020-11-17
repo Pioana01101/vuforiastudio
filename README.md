@@ -27,7 +27,7 @@ Here you find a list of all provided examples, with direct links, in this reposi
 
 ## ![](https://placehold.it/16/F1B434/ffffff?text=+) Documentation
 
-You can find documentation [here](https://github.com/patrickscheper/vuforiastudio/wiki).
+You can find JavaScript documentation [here](https://github.com/patrickscheper/vuforiastudio/wiki).
 
 The link provides you a wiki with supporting documentation regarding the Javascript functionality of Vuforia Studio. It discusses how to learn to use Javascript, how to use the Studio syntax and gives an overview of the widget properties accessible.
 
